@@ -4,7 +4,7 @@ import Layout from './Layout'
 import Home from './Components/Home/Home'
 import Profile from './Components/profile/Profile'
 import Login from './Components/Page/Login'
-import SignUp from './Components/page/SignUp'
+import SignUp from './Components/Page/SignUp' 
 import Setup from './Components/profile/Setup'
 import Post from './Components/Post/Post'
 
