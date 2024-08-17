@@ -2,10 +2,10 @@ import React from 'react'
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import Layout from './Layout'
 import Home from './Components/Home/Home'
-import Profile from './Components/profile/Profile'
+import Profile from './Components/profile/Profile.jsx'
 import Login from './Components/Page/Login.jsx'
-import SignUp from './Components/page/SignUp'
-import Setup from './Components/profile/Setup'
+import SignUp from './Components/page/SignUp.jsx'
+import Setup from './Components/profile/Setup.jsx'
 import Post from './Components/Post/Post'
 
 const App = () => {
