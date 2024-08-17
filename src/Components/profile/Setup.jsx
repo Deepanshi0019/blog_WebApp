@@ -80,7 +80,7 @@ const Setup = () => {
 
             <button 
                 type="submit"
-                className="w-full py-2 px-4 bg-green-500 text-white font-bold rounded-md hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500"
+                className="w-full py-2 px-4 bg-orange-700 text-white font-bold rounded-md hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500"
             >
                 Submit
             </button>

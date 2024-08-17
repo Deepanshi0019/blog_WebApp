@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { getAuth } from 'firebase/auth'; // Adjust the import path based on your project structure
+import { auth } from '../../firebase'; // Adjust the import path based on your project structure
 import { createUserWithEmailAndPassword } from 'firebase/auth';
 import { useNavigate } from 'react-router-dom';
 

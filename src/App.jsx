@@ -6,6 +6,7 @@ import Profile from './Components/profile/Profile'
 import Login from './Components/page/Login'
 import SignUp from './Components/page/SignUp'
 import Setup from './Components/profile/Setup'
+import Post from './Components/Post/Post'
 
 const App = () => {
   const router = createBrowserRouter([
@@ -32,6 +33,9 @@ const App = () => {
        {
         path:"/Signup",
         element:<SignUp/>
+       },{
+        path:"/Post",
+        element:<Post/>
        }
       ]
     }
